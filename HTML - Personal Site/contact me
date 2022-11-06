@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <meta charset=”utf-8”>
+        <title>Work Experience</title>
+        <style>
+          h1 {color: blue;}
+        </style>
+    </head>
+
+    <body>
+
+    <center><pre><a href="workexperience.html">Work History</a>    <a href="coreskills.html">Skills</a>    <a href="hobbies.html">Hobbies</a></pre>
+      </center>
+    
+    </body>
+</html>
